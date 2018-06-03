@@ -10,7 +10,7 @@
 
     <!-- Branding Image -->
     <a class="navbar-brand" href="{{ url('/') }}">
-        {{ config('app.name', 'Laravel') }}
+        {{ config('app.name', 'Home') }}
     </a>
 </div>
 
@@ -66,7 +66,7 @@
                         aria-haspopup="true"
                         aria-expanded="false"
                 >
-                    Plowings <span class="caret"></span>
+                    Plowings Statistics<span class="caret"></span>
                 </a>
 
                 <ul class="dropdown-menu">

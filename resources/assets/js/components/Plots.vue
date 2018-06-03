@@ -62,6 +62,8 @@
                         search: this.search,
                     }
                 }).then((response) => {
+                   let a = JSON.parse(JSON.stringify(response.data.data));
+                    console.log(a);
                     this.laravelData = response.data;
                     this.plots = response.data.data;
                 }).catch((error) => {
