@@ -11,7 +11,7 @@
                             <thead>
                                 <tr>
                                     <th>#</th>
-                                    <th>Name</th>
+                                    <th>Field Name</th>
                                     <th>Seeding</th>
                                     <th>Area</th>
                                 </tr>

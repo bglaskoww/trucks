@@ -79423,7 +79423,7 @@ var staticRenderFns = [
       _c("tr", [
         _c("th", [_vm._v("#")]),
         _vm._v(" "),
-        _c("th", [_vm._v("Name")]),
+        _c("th", [_vm._v("Field Name")]),
         _vm._v(" "),
         _c("th", [_vm._v("Seeding")]),
         _vm._v(" "),
@@ -79735,7 +79735,7 @@ var staticRenderFns = [
       _c("tr", [
         _c("th", [_vm._v("#")]),
         _vm._v(" "),
-        _c("th", [_vm._v("Name")])
+        _c("th", [_vm._v("Trucks Name")])
       ])
     ])
   }

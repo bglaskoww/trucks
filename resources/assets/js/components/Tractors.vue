@@ -11,7 +11,7 @@
                             <thead>
                             <tr>
                                 <th>#</th>
-                                <th>Name</th>
+                                <th>Trucks Name</th>
                             </tr>
                             </thead>
 
